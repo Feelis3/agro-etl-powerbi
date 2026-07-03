@@ -1,0 +1,36 @@
+# Data processing
+pandas>=2.0
+numpy>=1.24
+openpyxl
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.15
+
+# Machine Learning
+scikit-learn>=1.3
+xgboost>=2.0
+lightgbm>=4.0
+shap>=0.42
+
+# NLP
+nltk>=3.8
+spacy>=3.6
+
+# Time series
+statsmodels>=0.14
+
+# XML parsing
+lxml>=4.9
+
+# Web app (Flask)
+flask>=3.0
+
+# Notebooks
+jupyter>=1.0
+ipykernel
+
+# Utilities
+tqdm
+python-dotenv

@@ -1,0 +1,84 @@
+pais,cultivo,severidad,n_reportes
+Alemania,Algodón,Alta,1
+Alemania,Arroz,Alta,2
+Alemania,Arroz,Media,2
+Alemania,Café,Alta,1
+Alemania,Café,Baja,1
+Alemania,Caña de azúcar,Baja,1
+Alemania,Girasol,Media,1
+Alemania,Maíz,Crítica,1
+Alemania,Maíz,Media,1
+Alemania,Soja,Baja,1
+Alemania,Trigo,Crítica,1
+Alemania,Té,Media,1
+Argentina,Arroz,Baja,1
+Argentina,Caña de azúcar,Baja,3
+Argentina,Girasol,Baja,1
+Argentina,Girasol,Media,1
+Argentina,Soja,Media,1
+Argentina,Trigo,Alta,1
+Australia,Algodón,Baja,1
+Australia,Arroz,Baja,1
+Australia,Arroz,Media,1
+Australia,Café,Alta,1
+Australia,Caña de azúcar,Crítica,1
+Australia,Cebada,Crítica,1
+Australia,Girasol,Baja,1
+Australia,Maíz,Baja,2
+Australia,Maíz,Crítica,1
+Australia,Maíz,Media,1
+Australia,Soja,Crítica,1
+Australia,Trigo,Alta,1
+Brasil,Algodón,Baja,1
+Brasil,Arroz,Alta,1
+Brasil,Arroz,Crítica,1
+Brasil,Café,Crítica,1
+Brasil,Caña de azúcar,Media,1
+Brasil,Cebada,Media,1
+Brasil,Maíz,Alta,1
+Brasil,Maíz,Crítica,1
+Brasil,Maíz,Media,1
+Brasil,Trigo,Alta,2
+China,Algodón,Baja,1
+China,Arroz,Alta,1
+China,Arroz,Media,2
+China,Café,Crítica,3
+China,Caña de azúcar,Baja,1
+China,Cebada,Media,1
+China,Maíz,Baja,2
+China,Maíz,Crítica,1
+China,Soja,Baja,1
+China,Trigo,Media,1
+China,Té,Alta,2
+Estados Unidos,Algodón,Baja,1
+Estados Unidos,Arroz,Alta,1
+Estados Unidos,Arroz,Baja,1
+Estados Unidos,Arroz,Crítica,1
+Estados Unidos,Arroz,Media,2
+Estados Unidos,Caña de azúcar,Baja,1
+Estados Unidos,Cebada,Alta,1
+Estados Unidos,Cebada,Media,1
+Estados Unidos,Maíz,Alta,2
+Estados Unidos,Soja,Alta,1
+Estados Unidos,Soja,Baja,2
+Estados Unidos,Soja,Crítica,1
+Francia,Algodón,Crítica,1
+Francia,Algodón,Media,1
+Francia,Caña de azúcar,Alta,1
+Francia,Caña de azúcar,Baja,1
+Francia,Caña de azúcar,Crítica,1
+Francia,Cebada,Baja,1
+Francia,Cebada,Crítica,1
+Francia,Cebada,Media,1
+Francia,Girasol,Alta,2
+Francia,Girasol,Crítica,2
+Francia,Soja,Media,1
+Francia,Té,Alta,1
+Francia,Té,Crítica,1
+India,Arroz,Alta,1
+India,Arroz,Crítica,1
+India,Caña de azúcar,Baja,1
+India,Maíz,Crítica,1
+India,Trigo,Baja,1
+India,Trigo,Media,2
+India,Té,Crítica,1

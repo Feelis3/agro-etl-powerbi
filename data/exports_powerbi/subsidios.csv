@@ -1,0 +1,38 @@
+pais,codigo_iso,tipo,anio,monto_usd,beneficiarios
+Argentina,ARG,maquinaria,2021-01-01,25542386,1914
+Argentina,ARG,expansion_frontera_agricola,2023-01-01,12595066,10898
+Argentina,ARG,investigacion_desarrollo,2019-01-01,15562206,7215
+Argentina,ARG,fertilizantes,2021-01-01,32694726,10823
+Brasil,BRA,expansion_frontera_agricola,2019-01-01,33704977,44633
+Brasil,BRA,fertilizantes,2020-01-01,8114311,5384
+Brasil,BRA,bioenergia,2023-01-01,32990812,40833
+Estados Unidos,USA,bioenergia,2023-01-01,9598894,25219
+Estados Unidos,USA,investigacion_desarrollo,2021-01-01,5236246,2160
+Estados Unidos,USA,credito_rural,2020-01-01,28984435,17129
+India,IND,investigacion_desarrollo,2019-01-01,48520114,39852
+India,IND,investigacion_desarrollo,2019-01-01,17716755,33020
+India,IND,investigacion_desarrollo,2021-01-01,2301730,21542
+China,CHN,seguro_agricola,2020-01-01,48775311,10377
+China,CHN,bioenergia,2018-01-01,32792618,17160
+China,CHN,seguro_agricola,2023-01-01,1204898,22444
+Francia,FRA,fertilizantes,2023-01-01,14082408,35308
+Francia,FRA,agricultura_organica,2020-01-01,17658196,25642
+Francia,FRA,expansion_frontera_agricola,2023-01-01,1732427,20541
+Francia,FRA,conservacion_suelos,2019-01-01,10667676,20405
+Alemania,DEU,conservacion_suelos,2019-01-01,48398771,40750
+Alemania,DEU,credito_rural,2020-01-01,11932107,39435
+Alemania,DEU,maquinaria,2020-01-01,2137912,9120
+Australia,AUS,investigacion_desarrollo,2022-01-01,3642845,34535
+Australia,AUS,fertilizantes,2023-01-01,49135190,47770
+Australia,AUS,maquinaria,2021-01-01,5286773,5449
+México,MEX,agricultura_organica,2018-01-01,36210634,28286
+México,MEX,expansion_frontera_agricola,2023-01-01,11400800,36920
+México,MEX,riego,2019-01-01,31098201,11424
+Kenia,KEN,agricultura_organica,2020-01-01,22672824,26396
+Kenia,KEN,expansion_frontera_agricola,2018-01-01,35242092,19981
+Nueva Zelanda,NZL,agricultura_organica,2019-01-01,27654398,14944
+Nueva Zelanda,NZL,maquinaria,2022-01-01,1493246,42135
+Nueva Zelanda,NZL,investigacion_desarrollo,2020-01-01,18827249,37455
+España,ESP,fertilizantes,2021-01-01,41491331,43690
+España,ESP,agricultura_organica,2021-01-01,14729806,13113
+España,ESP,riego,2018-01-01,27001467,7994

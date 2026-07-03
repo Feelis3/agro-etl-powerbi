@@ -1,0 +1,30 @@
+pais,codigo_iso,tipo,vigente,anio_implementacion
+Argentina,ARG,pesticidas_neonicotinoides,True,2010
+Argentina,ARG,uso_agua,False,2012
+Argentina,ARG,etanol_mezcla,False,2013
+Brasil,BRA,deforestacion,True,2018
+Brasil,BRA,reservas_legales,False,2017
+Brasil,BRA,etanol_mezcla,True,2015
+Estados Unidos,USA,pesticidas_neonicotinoides,True,2015
+Estados Unidos,USA,uso_agua,False,2018
+India,IND,bienestar_animal,True,2019
+India,IND,pesticidas_neonicotinoides,True,2018
+China,CHN,uso_agua,True,2014
+China,CHN,pesticidas_neonicotinoides,False,2015
+China,CHN,emisiones_ganaderas,True,2020
+Francia,FRA,rotacion_cultivos,False,2011
+Francia,FRA,uso_agua,True,2017
+Alemania,DEU,pesticidas_neonicotinoides,False,2015
+Alemania,DEU,deforestacion,False,2016
+Australia,AUS,deforestacion,True,2018
+Australia,AUS,reservas_legales,True,2015
+México,MEX,etanol_mezcla,True,2013
+México,MEX,rotacion_cultivos,True,2010
+Kenia,KEN,rotacion_cultivos,False,2018
+Kenia,KEN,rotacion_cultivos,True,2019
+Kenia,KEN,reservas_legales,True,2019
+Nueva Zelanda,NZL,emisiones_ganaderas,False,2012
+Nueva Zelanda,NZL,reservas_legales,False,2015
+Nueva Zelanda,NZL,pesticidas_neonicotinoides,False,2016
+España,ESP,reservas_legales,False,2020
+España,ESP,etanol_mezcla,False,2017

@@ -1,0 +1,101 @@
+fecha,Región,País,Cultivo,Plaga detectada,Severidad,Área afectada,Tratamiento aplicado,Eficacia,Pérdida estimada,Enfermedad detectada
+2020-01-01,Región Principal,China,Arroz,Barrenador del tallo,Media,2745ha,Químico (Epoxiconazole),93%,26%,Desconocido
+2020-01-13,Región Principal,Francia,Caña de azúcar,Chinche marrón,Crítica,3943ha,Cultural (Control manual),97%,17%,Desconocido
+2020-01-15,Cerrado,Brasil,Maíz,Oruga militar tardía,Alta,10ha,Cultural (Fecha de siembra ajustada),82%,38%,Desconocido
+2020-01-18,Mata Atlántica,Brasil,Maíz,Barrenador del tallo,Crítica,3064ha,Biológico (Trichogramma spp.),83%,3%,Desconocido
+2020-01-23,Patagonia,Argentina,Soja,Langosta,Media,995ha,Biológico (Trichogramma spp.),75%,2%,Desconocido
+2020-01-25,Pampas,Brasil,Arroz,Desconocido,Alta,2222ha,Biológico (Nematodos entomopatógenos),88%,32%,Podredumbre
+2020-01-27,Corn Belt,Estados Unidos,Arroz,Ácaro,Baja,314ha,Físico (Barreras físicas),96%,31%,Desconocido
+2020-02-03,Corn Belt,Estados Unidos,Maíz,Mosca blanca,Alta,3935ha,Químico (Lambda-cihalotrin),70%,19%,Desconocido
+2020-02-17,Coastal,India,Arroz,Desconocido,Crítica,4588ha,Físico (Trampas de feromonas),92%,5%,Piricularia
+2020-02-22,Región Principal,Francia,Soja,Langosta,Media,3067ha,Cultural (Control manual),87%,36%,Desconocido
+2020-02-25,Región Principal,Francia,Girasol,Ácaro,Alta,3839ha,Cultural (Fecha de siembra ajustada),74%,33%,Desconocido
+2020-03-07,Región Principal,Alemania,Girasol,Mosca blanca,Media,2736ha,Cultural (Control manual),84%,30%,Desconocido
+2020-03-20,California,Estados Unidos,Maíz,Chinche marrón,Alta,4435ha,Químico (Imidacloprid),96%,15%,Desconocido
+2020-04-03,Región Principal,Alemania,Soja,Desconocido,Baja,4266ha,Biológico (Nematodos entomopatógenos),70%,18%,Podredumbre
+2020-04-18,California,Estados Unidos,Arroz,Pulgón,Alta,4502ha,Físico (Control térmico),91%,27%,Desconocido
+2020-04-22,Región Principal,Francia,Algodón,Langosta,Media,1552ha,Biológico (Nematodos entomopatógenos),95%,8%,Desconocido
+2020-04-30,California,Estados Unidos,Soja,Ácaro,Alta,1724ha,Biológico (Bacillus thuringiensis),70%,3%,Desconocido
+2020-05-01,Región Principal,China,Soja,Gusano cogollero,Baja,2086ha,Físico (Trampas de feromonas),83%,24%,Desconocido
+2020-05-12,Región Principal,Alemania,Maíz,Pulgón,Media,2498ha,Físico (Control térmico),88%,32%,Desconocido
+2020-05-23,Pampa Húmeda,Argentina,Caña de azúcar,Pulgón,Baja,2105ha,Físico (Barreras físicas),94%,36%,Desconocido
+2020-06-05,Mata Atlántica,Brasil,Algodón,Desconocido,Baja,3122ha,Biológico (Trichogramma spp.),94%,7%,Oídio
+2020-06-13,Región Principal,China,Café,Gusano cogollero,Crítica,3121ha,Cultural (Rotación de cultivos),89%,32%,Desconocido
+2020-06-14,Región Principal,Francia,Cebada,Ácaro,Baja,94ha,Químico (Clorantraniliprol),86%,30%,Desconocido
+2020-06-16,California,Estados Unidos,Caña de azúcar,Ácaro,Baja,2084ha,Biológico (Nematodos entomopatógenos),86%,33%,Desconocido
+2020-06-19,Wheatbelt,Australia,Cebada,Pulgón,Crítica,908ha,Químico (Clorantraniliprol),76%,32%,Desconocido
+2020-06-27,Coastal,India,Maíz,Desconocido,Crítica,369ha,Cultural (Rotación de cultivos),77%,23%,Roya de la hoja
+2020-07-11,Tasmania,Australia,Arroz,Desconocido,Baja,1357ha,Químico (Imidacloprid),93%,40%,Roya amarilla
+2020-07-21,Noroeste,Argentina,Caña de azúcar,Ácaro,Baja,4312ha,Cultural (Control manual),87%,8%,Desconocido
+2020-07-28,Queensland Coast,Australia,Maíz,Ácaro,Baja,543ha,Biológico (Trichogramma spp.),98%,24%,Desconocido
+2020-08-05,Región Principal,Alemania,Café,Desconocido,Baja,207ha,Químico (Clorantraniliprol),88%,13%,Roya de la hoja
+2020-08-16,Deccan,India,Caña de azúcar,Langosta,Baja,1529ha,Físico (Trampas de feromonas),87%,4%,Desconocido
+2020-08-20,Deccan,India,Trigo,Ácaro,Baja,3056ha,Biológico (Nematodos entomopatógenos),95%,2%,Desconocido
+2020-08-22,Región Principal,China,Té,Chinche marrón,Alta,2006ha,Físico (Trampas de feromonas),76%,32%,Desconocido
+2020-08-30,Murray-Darling Basin,Australia,Arroz,Gusano cogollero,Media,1050ha,Químico (Clorantraniliprol),85%,34%,Desconocido
+2020-09-01,Pacific Northwest,Estados Unidos,Arroz,Desconocido,Media,2160ha,Físico (Trampas de feromonas),94%,29%,Antracnosis
+2020-09-02,Región Principal,Francia,Algodón,Pulgón,Crítica,3694ha,Químico (Imidacloprid),85%,34%,Desconocido
+2020-09-17,Región Principal,Alemania,Trigo,Mosca blanca,Crítica,624ha,Físico (Control térmico),70%,28%,Desconocido
+2020-09-19,Cerrado,Brasil,Trigo,Ácaro,Alta,3815ha,Cultural (Fecha de siembra ajustada),96%,36%,Desconocido
+2020-09-29,Región Principal,Francia,Cebada,Ácaro,Media,3854ha,Cultural (Rotación de cultivos),92%,33%,Desconocido
+2020-10-05,Mata Atlántica,Brasil,Cebada,Desconocido,Media,2574ha,Cultural (Rotación de cultivos),88%,14%,Fusarium
+2020-10-11,Región Principal,China,Arroz,Ácaro,Alta,2171ha,Físico (Control térmico),91%,14%,Desconocido
+2020-10-24,Great Plains,Estados Unidos,Cebada,Pulgón,Alta,1684ha,Físico (Control térmico),86%,13%,Desconocido
+2020-10-26,Región Principal,China,Arroz,Pulgón,Media,4081ha,Cultural (Rotación de cultivos),82%,32%,Desconocido
+2020-11-07,Región Principal,China,Té,Chinche marrón,Alta,4974ha,Biológico (Trichogramma spp.),73%,26%,Desconocido
+2020-11-21,Región Principal,Alemania,Maíz,Mosca blanca,Crítica,3735ha,Cultural (Control manual),88%,28%,Desconocido
+2020-11-25,Región Principal,China,Maíz,Langosta,Baja,3912ha,Físico (Barreras físicas),80%,9%,Desconocido
+2020-11-28,California,Estados Unidos,Soja,Desconocido,Baja,585ha,Cultural (Rotación de cultivos),87%,36%,Piricularia
+2020-12-03,Pacific Northwest,Estados Unidos,Soja,Oruga militar tardía,Baja,922ha,Cultural (Control manual),93%,19%,Desconocido
+2020-12-08,Región Principal,Alemania,Arroz,Mosca blanca,Alta,1946ha,Químico (Clorantraniliprol),87%,39%,Desconocido
+2020-12-14,Coastal,India,Trigo,Oruga militar tardía,Media,756ha,Cultural (Fecha de siembra ajustada),73%,8%,Desconocido
+2020-12-18,Región Principal,Alemania,Arroz,Chinche marrón,Media,1815ha,Cultural (Rotación de cultivos),70%,17%,Desconocido
+2020-12-29,Región Principal,China,Algodón,Barrenador del tallo,Baja,681ha,Físico (Control térmico),84%,30%,Desconocido
+2021-01-01,Región Principal,Alemania,Té,Mosca blanca,Media,4036ha,Físico (Control térmico),80%,22%,Desconocido
+2021-01-02,Tasmania,Australia,Café,Desconocido,Alta,1193ha,Biológico (Nematodos entomopatógenos),96%,26%,Tizón tardío
+2021-01-05,Región Principal,Alemania,Arroz,Ácaro,Alta,2047ha,Cultural (Rotación de cultivos),82%,40%,Desconocido
+2021-01-20,Wheatbelt,Australia,Maíz,Gusano cogollero,Crítica,189ha,Físico (Control térmico),81%,25%,Desconocido
+2021-01-27,Noroeste,Argentina,Caña de azúcar,Desconocido,Baja,3592ha,Cultural (Fecha de siembra ajustada),77%,19%,Mildiu
+2021-02-02,Región Principal,China,Caña de azúcar,Barrenador del tallo,Baja,3134ha,Cultural (Rotación de cultivos),94%,16%,Desconocido
+2021-02-04,Corn Belt,Estados Unidos,Soja,Mosca blanca,Crítica,1230ha,Cultural (Rotación de cultivos),97%,29%,Desconocido
+2021-02-09,Pacific Northwest,Estados Unidos,Arroz,Gusano cogollero,Media,765ha,Biológico (Nematodos entomopatógenos),90%,13%,Desconocido
+2021-02-14,Wheatbelt,Australia,Algodón,Barrenador del tallo,Baja,561ha,Biológico (Trichogramma spp.),96%,13%,Desconocido
+2021-02-23,Mata Atlántica,Brasil,Caña de azúcar,Desconocido,Media,2022ha,Biológico (Trichogramma spp.),97%,12%,Roya de la hoja
+2021-03-08,Región Principal,China,Café,Oruga militar tardía,Crítica,1115ha,Químico (Clorantraniliprol),85%,11%,Desconocido
+2021-03-22,California,Estados Unidos,Arroz,Mosca blanca,Crítica,2023ha,Físico (Trampas de feromonas),92%,9%,Desconocido
+2021-04-03,Punjab,India,Trigo,Ácaro,Media,14ha,Cultural (Fecha de siembra ajustada),86%,33%,Desconocido
+2021-04-14,Región Principal,Alemania,Café,Desconocido,Alta,4970ha,Físico (Barreras físicas),86%,28%,Oídio
+2021-04-17,Murray-Darling Basin,Australia,Trigo,Pulgón,Alta,956ha,Físico (Barreras físicas),82%,21%,Desconocido
+2021-04-23,Noroeste,Argentina,Girasol,Oruga militar tardía,Media,3577ha,Químico (Epoxiconazole),97%,39%,Desconocido
+2021-05-06,Pacific Northwest,Estados Unidos,Cebada,Oruga militar tardía,Media,3606ha,Cultural (Fecha de siembra ajustada),82%,31%,Desconocido
+2021-05-18,Wheatbelt,Australia,Girasol,Ácaro,Baja,2020ha,Químico (Clorantraniliprol),79%,25%,Desconocido
+2021-05-19,Región Principal,Francia,Caña de azúcar,Desconocido,Baja,4910ha,Cultural (Fecha de siembra ajustada),96%,34%,Mildiu
+2021-05-28,Tasmania,Australia,Maíz,Pulgón,Media,2552ha,Químico (Clorantraniliprol),73%,11%,Desconocido
+2021-06-09,Región Principal,China,Maíz,Pulgón,Baja,3682ha,Físico (Barreras físicas),95%,31%,Desconocido
+2021-06-15,Región Principal,Francia,Cebada,Gusano cogollero,Crítica,4003ha,Físico (Control térmico),71%,37%,Desconocido
+2021-06-27,Pampas,Brasil,Trigo,Langosta,Alta,1189ha,Químico (Imidacloprid),72%,26%,Desconocido
+2021-07-02,Región Principal,Alemania,Arroz,Oruga militar tardía,Media,1603ha,Físico (Control térmico),76%,28%,Desconocido
+2021-07-15,California,Estados Unidos,Algodón,Desconocido,Baja,552ha,Químico (Clorantraniliprol),78%,32%,Tizón tardío
+2021-07-28,Pampas,Brasil,Arroz,Desconocido,Crítica,945ha,Biológico (Nematodos entomopatógenos),84%,23%,Roya de la hoja
+2021-08-07,Región Principal,Francia,Caña de azúcar,Pulgón,Alta,4324ha,Químico (Lambda-cihalotrin),95%,40%,Desconocido
+2021-08-20,Punjab,India,Arroz,Mosca blanca,Alta,4178ha,Cultural (Fecha de siembra ajustada),93%,27%,Desconocido
+2021-08-21,Región Principal,China,Cebada,Desconocido,Media,1803ha,Químico (Epoxiconazole),98%,11%,Podredumbre
+2021-09-05,Mata Atlántica,Brasil,Café,Ácaro,Crítica,4651ha,Cultural (Fecha de siembra ajustada),72%,17%,Desconocido
+2021-09-08,Queensland Coast,Australia,Soja,Desconocido,Crítica,3335ha,Físico (Trampas de feromonas),83%,32%,Piricularia
+2021-09-09,Región Principal,Francia,Girasol,Langosta,Crítica,3256ha,Químico (Epoxiconazole),83%,17%,Desconocido
+2021-09-14,Ganges,India,Té,Pulgón,Crítica,688ha,Biológico (Bacillus thuringiensis),72%,2%,Desconocido
+2021-09-17,Región Principal,Alemania,Caña de azúcar,Desconocido,Baja,27ha,Físico (Trampas de feromonas),71%,10%,Roya de la hoja
+2021-09-22,Región Principal,Francia,Girasol,Mosca blanca,Alta,828ha,Biológico (Nematodos entomopatógenos),72%,4%,Desconocido
+2021-10-02,Cuyo,Argentina,Arroz,Desconocido,Baja,2199ha,Cultural (Control manual),96%,35%,Oídio
+2021-10-04,Región Principal,China,Trigo,Mosca blanca,Media,4227ha,Biológico (Trichogramma spp.),89%,16%,Desconocido
+2021-10-16,Región Principal,China,Maíz,Desconocido,Crítica,3716ha,Cultural (Control manual),79%,20%,Roya de la hoja
+2021-10-27,Región Principal,Alemania,Algodón,Desconocido,Alta,1734ha,Químico (Epoxiconazole),74%,11%,Fusarium
+2021-10-28,Cerrado,Brasil,Maíz,Langosta,Media,1233ha,Biológico (Trichogramma spp.),94%,23%,Desconocido
+2021-11-09,Región Principal,Francia,Té,Desconocido,Crítica,1014ha,Cultural (Control manual),76%,32%,Mildiu
+2021-11-20,Cuyo,Argentina,Girasol,Pulgón,Baja,410ha,Biológico (Trichogramma spp.),82%,13%,Desconocido
+2021-12-04,Tasmania,Australia,Caña de azúcar,Desconocido,Crítica,1098ha,Cultural (Control manual),92%,29%,Antracnosis
+2021-12-15,Región Principal,Francia,Té,Chinche marrón,Alta,3416ha,Biológico (Trichogramma spp.),98%,23%,Desconocido
+2021-12-18,Cuyo,Argentina,Trigo,Langosta,Alta,1666ha,Químico (Epoxiconazole),71%,2%,Desconocido
+2021-12-29,Región Principal,Francia,Girasol,Gusano cogollero,Crítica,4114ha,Químico (Imidacloprid),74%,23%,Desconocido
+2022-01-09,Región Principal,China,Café,Desconocido,Crítica,332ha,Físico (Control térmico),88%,37%,Tizón tardío
+2022-01-14,Queensland Coast,Australia,Maíz,Ácaro,Baja,3897ha,Físico (Barreras físicas),98%,40%,Desconocido
